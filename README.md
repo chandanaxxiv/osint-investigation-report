@@ -1,12 +1,11 @@
-# OSINT Case Studies – Passive Investigation (Sanitized)
+# OSINT Case Studies – Passive Investigation 
 
 ## Overview
 This repository contains OSINT-based case studies performed using publicly available data. All investigations were conducted using passive reconnaissance techniques without any direct interaction.
 
 ---
 
-## Case Study 1: Digital Activity Investigation (Sanitized)
-
+## Case Study 1: Digital Activity Investigation 
 ### Objective
 To analyze visible digital activity from a system screenshot and identify potential misuse of online platforms.
 
