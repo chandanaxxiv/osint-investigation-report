@@ -1,4 +1,4 @@
-# OSINT Investigation & Threat Analysis (Sanitized Case Study)
+# OSINT Investigation & Threat Analysis (Case Study)
 ## Overview
 This project demonstrates the application of OSINT techniques to analyze suspicious online activities and identify potential fraud patterns.
 ## Objective
