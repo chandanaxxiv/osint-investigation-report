@@ -24,8 +24,8 @@ Welcome to my OSINT research repository. This portfolio documents my process for
 
 | Project | Focus Area | Key Findings |
 | --- | --- | --- |
-| [1 - Scam Networks](https://www.google.com/search?q=url) | Social Media / Telegram | Identified coordinated scam chain (66Lottery), duplicate accounts, and fraudulent APK distribution. |
-| [2 - Fraudulent Sites](https://www.google.com/search?q=url) | E-commerce / Phishing | Investigated multiple sites (e.g., lsaoutlet.shop) exhibiting hidden ownership, fake pricing, and COD scams. |
+| [1 - Scam Networks](./Case_Study_01_Scam_Networks/README.md) | Social Media / Telegram | Identified coordinated scam chain (66Lottery), duplicate accounts, and fraudulent APK distribution. |
+| [2 - Fraudulent Sites](./Case_Study_02_Fraudulent_Websites/README.md) | E-commerce / Phishing | Investigated multiple sites (e.g., lsaoutlet.shop) exhibiting hidden ownership, fake pricing, and COD scams. |
 
 ## 𝑻𝒐𝒐𝒍𝒔 𝑼𝒔𝒆𝒅
 
