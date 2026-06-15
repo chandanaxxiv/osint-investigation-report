@@ -1,69 +1,59 @@
-# OSINT Case Studies – Passive Investigation 
+# OSINT Investigation & Threat Intelligence Portfolio
 
-## Overview
-This repository contains OSINT-based case studies performed using publicly available data. All investigations were conducted using passive reconnaissance techniques without any direct interaction.
-
----
-
-## Case Study 1: Digital Activity Investigation 
-### Objective
-To analyze visible digital activity from a system screenshot and identify potential misuse of online platforms.
-
-### Approach
-- Observed system environment and active applications  
-- Identified publicly visible digital footprints  
-- Correlated information across platforms using open-source techniques  
-
-### Key Observations
-- Detected usage of online content editing platforms  
-- Identified presence of linked social media and web content  
-- Observed potential misuse involving content sharing without consent  
-
-### Techniques Used
-- Passive reconnaissance  
-- Visual data analysis  
-- Cross-platform correlation  
+Welcome to my OSINT research repository. This portfolio documents my process for identifying, analyzing, and reporting on suspicious online activity, fraudulent e-commerce entities, and coordinated scam networks.
 
 ---
 
-## Case Study 2: Image-Based OSINT (Geolocation & Analysis)
+## 𝑺𝒖𝒎𝒎𝒂𝒓𝒚
 
-### Objective
-To identify the location and contextual details from a publicly available image.
+* **Focus:** Open-Source Intelligence (OSINT), Threat Intelligence, and Digital Fraud Analysis.
+* **Methodology:** Passive reconnaissance, cross-platform correlation, and structured report generation.
+* **Goal:** To document threat actor patterns and provide actionable intelligence to help secure digital spaces.
+* **Ethical Stance:** All investigations are strictly passive. No direct interaction, social engineering, or unauthorized access is performed.
 
-### Approach
-- Performed visual analysis of landmarks  
-- Used open-source tools for geolocation verification  
-- Estimated spatial distance using mapping tools  
+## 𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔
 
-### Key Findings
-- Identified a well-known public landmark and location  
-- Verified surroundings using satellite imagery  
-- Estimated approximate distance between subject and landmark  
+| Skill Category | Tools & Techniques |
+| --- | --- |
+| **Research** | OSINT Framework, Digital Footprinting, Passive Reconnaissance |
+| **Verification** | WHOIS, Reverse Image Search, IP/Hosting Analysis, SSL/HTTPS check |
+| **Analysis** | Cross-platform correlation, Pattern recognition, Scam network mapping |
+| **Reporting** | Structured evidence logs, Incident summary, MITRE ATT&CK concepts |
 
-### Tools Used
-- Google Maps / Google Earth  
-- Google Lens  
-- Visual pattern recognition  
+## 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 𝑪𝒂𝒔𝒆 𝑺𝒕𝒖𝒅𝒊𝒆𝒔
 
----
+| Project | Focus Area | Key Findings |
+| --- | --- | --- |
+| [1 - Scam Networks](https://www.google.com/search?q=url) | Social Media / Telegram | Identified coordinated scam chain (66Lottery), duplicate accounts, and fraudulent APK distribution. |
+| [2 - Fraudulent Sites](https://www.google.com/search?q=url) | E-commerce / Phishing | Investigated multiple sites (e.g., lsaoutlet.shop) exhibiting hidden ownership, fake pricing, and COD scams. |
 
-## Ethical Considerations
-- All analysis conducted using publicly available data  
-- No direct interaction with individuals or systems  
-- No personal or sensitive data disclosed  
-- This work is intended for educational and research purposes only  
+## 𝑻𝒐𝒐𝒍𝒔 𝑼𝒔𝒆𝒅
 
----
-
-## Outcome
-These case studies demonstrate practical understanding of OSINT techniques including:
-- Passive reconnaissance  
-- Digital footprint analysis  
-- Cross-platform investigation  
-- Image-based intelligence  
+* **Investigation:** Google Dorking, WHOIS, IPVoid, MXToolbox
+* **Verification:** Trustpilot, Reddit, VirusTotal, PhishTank
+* **Archiving:** Wayback Machine, Archive.today
+* **Documentation:** Google Workspace, Markdown, Structured PDF Reporting
 
 ---
 
-## Note
-All sensitive identifiers, links, and personal data have been removed to maintain privacy and ethical standards.
+## 𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑮𝒖𝒊𝒅𝒆𝒍𝒊𝒏𝒆𝒔
+
+* **Passive Reconnaissance:** Only publicly available data is collected.
+* **Privacy:** All sensitive personal identifiers or unrelated private data are redacted/removed from public reports.
+* **Purpose:** This work is strictly for academic research and professional skill development.
+
+---
+
+## 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
+
+Thank you for visiting! I am eager to grow my expertise in threat intelligence and cybersecurity. Feel free to connect or reach out regarding research collaboration.
+
+* **[LinkedIn](www.linkedin.com/in/chandana-c-b5b220390](https://www.linkedin.com/in/chandana-c-b5b220390/)**
+
+*Stay tuned for more case studies as I continue to document my investigations.*
+
+---
+
+*This repository is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).*
+
+---
