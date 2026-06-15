@@ -48,7 +48,7 @@ Welcome to my OSINT research repository. This portfolio documents my process for
 
 Thank you for visiting! I am eager to grow my expertise in threat intelligence and cybersecurity. Feel free to connect or reach out regarding research collaboration.
 
-* **[LinkedIn](www.linkedin.com/in/chandana-c-b5b220390](https://www.linkedin.com/in/chandana-c-b5b220390/)**
+* **[LinkedIn](https://www.linkedin.com/in/chandana-c-b5b220390/)**
 
 *Stay tuned for more case studies as I continue to document my investigations.*
 
